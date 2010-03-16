@@ -5,8 +5,8 @@ var PLUGIN_INFO =
     <description>hamazou and tabezou search plugin</description>
     <description lang="ja">hamazou と tabezou で検索するプラグインです</description>
     <version>0.0.1</version>
-    <updateURL>http://github.com/basyura/zou-search/zou_search.ks.js</updateURL>
-    <iconURL>http://github.com/</iconURL>
+    <updateURL>http://github.com/basyura/zou-search/raw/master/zou_search.ks.js</updateURL>
+    <iconURL>http://github.com/basyura/zou-search/raw/master/logo.jpg</iconURL>
     <author mail="basyura@gmail.com" homepage="http://basyura.org/">basyura</author>
     <license>The MIT License</license>
     <license lang="ja">MIT ライセンス</license>
