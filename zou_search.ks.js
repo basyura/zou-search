@@ -37,6 +37,14 @@ plugins.options["zou_search.user"] = "basyura"
 >||
 plugins.options["zou_search.user"] = "basyura"
 ||<
+キーを登録する。
+key.setViewKey('h', function (aEvent, aArg) {
+    ext.exec("hamazou-search", aArg);
+}, 'hamazou search', true);
+key.setViewKey('t', function (aEvent, aArg) {
+    ext.exec("tabezou-search", aArg);
+}, 'tabezou search', true);
+
     ]]></detail>
 </KeySnailPlugin>;
 
