@@ -7,7 +7,7 @@ var PLUGIN_INFO =
     <version>0.0.1</version>
     <updateURL>http://github.com/basyura/zou-search/raw/master/zou_search.ks.js</updateURL>
     <iconURL>http://github.com/basyura/zou-search/raw/master/logo.jpg</iconURL>
-    <author mail="basyura@gmail.com" homepage="http://basyura.org/">basyura</author>
+    <author mail="basyura@gmail.com" homepage="http://github.com/basyura/zou-search">basyura</author>
     <license>The MIT License</license>
     <license lang="ja">MIT ライセンス</license>
     <minVersion>1.0</minVersion>
