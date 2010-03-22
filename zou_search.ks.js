@@ -65,6 +65,7 @@ key.setViewKey('h', function (aEvent, aArg) {
     ]]></detail>
 </KeySnailPlugin>;
 
+let user = plugins.options["zou_search.user"];
 function defineFooZouCommand(names, description, dir) {
 	shell.add(names, description,
 	function (args, extra) {
